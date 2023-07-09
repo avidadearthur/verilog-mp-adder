@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Fri Apr 28 12:16:07 2023
+# Process ID: 6496
+# Current directory: C:/Users/dell/Desktop/3-2/Complex Digital Design/Final Project/Final Project.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/dell/Desktop/3-2/Complex Digital Design/Final Project/Final Project.sim/sim_1/behav/xsim/xsim.dir/uart_top_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/dell/Desktop/3-2/Complex Digital Design/Final Project/Final Project.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/dell/Desktop/3-2/Complex Digital Design/Final Project/Final Project.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/dell/Desktop/3-2/Complex -notrace

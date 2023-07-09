@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Final Project.srcs/sources_1/new/carry_lookahead_adder_4b.v" \
+"../../../../Final Project.srcs/sources_1/new/carry_lookahead_adder_8b.v" \
+"../../../../Final Project.srcs/sources_1/new/carry_select_adder_Nb.v" \
+"../../../../Final Project.srcs/sources_1/new/carry_select_adder_slice.v" \
+"../../../../Final Project.srcs/sources_1/imports/new/full_adder.v" \
+"../../../../Final Project.srcs/sources_1/new/kogge_stone_adder_16b.v" \
+"../../../../Final Project.srcs/sources_1/imports/Lab3/mp_adder.v" \
+"../../../../Final Project.srcs/sources_1/new/mp_adder_free.v" \
+"../../../../Final Project.srcs/sources_1/new/mp_multiplier.v" \
+"../../../../Final Project.srcs/sources_1/new/uart_rx.v" \
+"../../../../Final Project.srcs/sources_1/imports/Complex Digital Design/uart_top.v" \
+"../../../../Final Project.srcs/sources_1/imports/Complex Digital Design/uart_tx.v" \
+"../../../../Final Project.srcs/sources_1/new/wallace_tree_multiplier.v" \
+"../../../../Final Project.srcs/sim_1/imports/Complex Digital Design/uart_top_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
