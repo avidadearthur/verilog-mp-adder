@@ -75,8 +75,6 @@ Here's the table formatted as a Markdown table:
 | 128        | -9.556         | -5.053               | -3.199               | -1.293               | 0.632                 |
 
 
-Let me know if there's anything else I can assist you with!
-
 Table 2: Area Costs in LUTs and Registers for Different Architectures and Increasing Operand Size (including uart_top)
 | M   | 4-bit CLA | 4-bit RCA in CSA | 4-bit CLA in CSA | 8-bit CLA in CSA | 16-bit KSA in CSA |
 |-----|-----------|------------------|------------------|------------------|-------------------|
